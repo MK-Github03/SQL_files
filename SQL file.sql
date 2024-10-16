@@ -1,7 +1,8 @@
 
 -- New SQL file
 
--- Create a table for products
+-- Create a table for the products
+
 CREATE TABLE products (
     product_id INT PRIMARY KEY,
     product_name VARCHAR(100),
